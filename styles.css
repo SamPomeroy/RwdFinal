@@ -22,7 +22,7 @@
 }
 .header {
     grid-column-start: span 4;
-    border: 2px solid rgb(17, 8, 8); 
+    /* border: 2px solid rgb(17, 8, 8);  */
     background-color: beige;
     padding-top: 20px;
     
