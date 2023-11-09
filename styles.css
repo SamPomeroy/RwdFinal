@@ -25,6 +25,7 @@
     /* border: 2px solid rgb(17, 8, 8);  */
     background-color: beige;
     padding-top: 20px;
+    letter-spacing: 5px;
     
     
     
@@ -114,7 +115,7 @@ a:focus {
 a:active {
     color: brown;
 }
-.footer {
+footer {
     grid-column-start: span 4;
     background-color: rgb(83, 61, 61);
     text-align: center;
